@@ -7,5 +7,7 @@ Dans cette série d'articles, vous apprendrez à utiliser Node.js pour de nombre
 [Suivre tous les tutoriels sur mon site:](https://djemai-samy.com/posts/0.nodejs-initiation)
 
 - [NodeJS: Introduction](https://djemai-samy.com/posts/1.nodejs-introduction.article)
+- [NodeJS: Files System](https://djemai-samy.com/posts/2.nodejs-files.article)
+- [NodeJS: Programmation de CLI](https://djemai-samy.com/posts/3.nodejs-cli.article)
 
 ---
