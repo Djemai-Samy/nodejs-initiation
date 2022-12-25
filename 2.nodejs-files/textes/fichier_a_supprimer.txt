@@ -1,0 +1,1 @@
+Pour supprimer un fichier avec Node.js, vous pouvez utiliser la fonction fs.unlink() de l'API de fichiers de Node.js.

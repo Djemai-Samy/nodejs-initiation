@@ -1,0 +1,1 @@
+Pour renommer un fichier ou un dossier existe avec Node.js, vous pouvez utiliser la fonction fs.rename() de l'API de fichiers de Node.js.
