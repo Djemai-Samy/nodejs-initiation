@@ -1,0 +1,10 @@
+{
+  "name": "generator-script",
+  "version": "1.0.0",
+  "description": "Un script pour créer une structure de dossier pour un site web basique.",
+  "bin": {
+    "create-project": "./bin/create-script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

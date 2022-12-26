@@ -9,5 +9,7 @@ Dans cette série d'articles, vous apprendrez à utiliser Node.js pour de nombre
 - [NodeJS: Introduction](https://djemai-samy.com/posts/1.nodejs-introduction.article)
 - [NodeJS: Files System](https://djemai-samy.com/posts/2.nodejs-files.article)
 - [NodeJS: Programmation de CLI](https://djemai-samy.com/posts/3.nodejs-cli.article)
+- [NodeJS: Serveurs Web](https://djemai-samy.com/posts/4.nodejs-webserver.article)
+- [NodeJS: Les packages](https://djemai-samy.com/posts/5.nodejs-packages.article)
 
 ---

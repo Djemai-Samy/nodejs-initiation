@@ -1,0 +1,7 @@
+{
+  "name": "math-librairie",
+  "version": "1.0.0",
+  "description": "Un exemple de création de package",
+  "main": "index.js",
+  "author": "Djemai Samy"
+}

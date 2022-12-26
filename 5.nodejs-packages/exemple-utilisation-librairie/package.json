@@ -1,0 +1,13 @@
+{
+  "name": "exemple-utilisation-librairie",
+  "version": "1.0.0",
+  "description": "Un script qui utilise notre librairie pour additionner deux nombres",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "math-librairie": "file:../math-librairie"
+  }
+}
